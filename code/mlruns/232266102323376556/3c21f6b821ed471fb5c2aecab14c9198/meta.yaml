@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gabri/OneDrive/Documentos/repos/03_infnet/04_Engenharia_Machine_Learning_2.0/code/mlruns/232266102323376556/3c21f6b821ed471fb5c2aecab14c9198/artifacts
+end_time: 1713111073715
+entry_point_name: ''
+experiment_id: '232266102323376556'
+lifecycle_stage: active
+run_id: 3c21f6b821ed471fb5c2aecab14c9198
+run_name: Treinamento
+run_uuid: 3c21f6b821ed471fb5c2aecab14c9198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713111012981
+status: 3
+tags: []
+user_id: gabri

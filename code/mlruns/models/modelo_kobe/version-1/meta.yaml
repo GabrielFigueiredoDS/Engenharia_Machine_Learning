@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713111073607
+current_stage: None
+description: null
+last_updated_timestamp: 1713111073607
+name: modelo_kobe
+run_id: 3c21f6b821ed471fb5c2aecab14c9198
+run_link: null
+source: file:///c:/Users/gabri/OneDrive/Documentos/repos/03_infnet/04_Engenharia_Machine_Learning_2.0/code/mlruns/232266102323376556/3c21f6b821ed471fb5c2aecab14c9198/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/gabri/OneDrive/Documentos/repos/03_infnet/04_Engenharia_Machine_Learning_2.0/code/mlruns/232266102323376556/3c21f6b821ed471fb5c2aecab14c9198/artifacts/sklearn-model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gabri/OneDrive/Documentos/repos/03_infnet/04_Engenharia_Machine_Learning_2.0/code/mlruns/232266102323376556/817edc6ae9624f95bf05b2021810715b/artifacts
+end_time: 1713111012836
+entry_point_name: ''
+experiment_id: '232266102323376556'
+lifecycle_stage: active
+run_id: 817edc6ae9624f95bf05b2021810715b
+run_name: PreparacaoDados
+run_uuid: 817edc6ae9624f95bf05b2021810715b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713111012165
+status: 3
+tags: []
+user_id: gabri

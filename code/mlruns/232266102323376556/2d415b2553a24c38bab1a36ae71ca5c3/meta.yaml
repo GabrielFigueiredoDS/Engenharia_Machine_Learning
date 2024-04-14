@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gabri/OneDrive/Documentos/repos/03_infnet/04_Engenharia_Machine_Learning_2.0/code/mlruns/232266102323376556/2d415b2553a24c38bab1a36ae71ca5c3/artifacts
+end_time: 1713111496075
+entry_point_name: ''
+experiment_id: '232266102323376556'
+lifecycle_stage: active
+run_id: 2d415b2553a24c38bab1a36ae71ca5c3
+run_name: PipelineAplicacao
+run_uuid: 2d415b2553a24c38bab1a36ae71ca5c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713111492232
+status: 3
+tags: []
+user_id: gabri
